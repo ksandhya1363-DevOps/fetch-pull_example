@@ -1,3 +1,5 @@
 Hi this is ne file in vscode
 
 Hi this line is edited in browser
+
+Manager asked to add the new functionality
